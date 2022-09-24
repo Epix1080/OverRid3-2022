@@ -30,7 +30,7 @@ if __name__ == '__main__':
     cap = cv2.VideoCapture(0)
     while True:
         p,img = cap.read()
-        #img = cv2.resize(img,(360,480))
+        img = cv2.resize(img,(360,480))
         img, info = findFace(img)
         print("Area",info[1],"Center",info[0])
         cv2.imshow("Output",img)
