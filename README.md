@@ -5,3 +5,5 @@ Med-Link es una plataforma que mediante reconocimiento facial y almacenamiento d
 Presentación: 
 https://bit.ly/3xQ5sMw
 
+Link a proyecto debido a archivos muy pesados:
+https://drive.google.com/drive/folders/1hx1vmrXbYXpy_lfbQpANTDxsruTKuhnI?usp=sharing
